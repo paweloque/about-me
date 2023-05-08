@@ -1,5 +1,5 @@
 # About me
-Pawel Kowalski - https://www.linkedin.com/in/paweloque/
+Pawel Kowalski - https://www.linkedin.com/in/paweloque/, https://stackoverflow.com/users/76661/paweloque
 
 I am a software engineer with over 15 years of experience in building digital products. I am passionate about taking ideas and shaping them into successful products by building prototypes, validating them, and turning them into reality. I see myself as someone at the intersection of technology, product design, and people. Throughout my career, I have written code, designed products, and led engineering teams.
 
