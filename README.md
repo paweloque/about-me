@@ -1,7 +1,7 @@
 # About me
 I am a software engineer and have been building digital products for over 15 years. I am passionate about taking ideas and shaping them into product concepts, building prototypes, validating them, and ultimately turning them into successful products. My interest in education led me to develop Lernpfad.ch, a micropublishing platform that allows teachers to create structured learning scenarios for their students.
 
-A few years ago, I worked at a Swisscom subsidiary, Mila.com, where we participated in a Swisscom bug bounty program. This experience inspired me to start GObugfree.com, a crowd-sourced application security platform that makes the bug bounty approach accessible to all digital products.
+A few years ago, I worked as the CTO at a Swisscom subsidiary, Mila.com, where we participated in a Swisscom bug bounty program. This experience inspired me to start GObugfree.com, a crowd-sourced application security platform that makes the bug bounty approach accessible to all digital products.
 
 Finally, my work in the digital product domain has allowed me to build a large network of people working in this area. This experience materialized into BetterSource.ch, a local network of freelance software engineers, product designers, and UX designers that helps businesses find the right freelancers for their digital projects.
 
