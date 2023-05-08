@@ -1,5 +1,7 @@
 # About me
-I am a software engineer and have been building digital products for over 15 years. I am passionate about taking ideas and shaping them into product concepts, building prototypes, validating them, and ultimately turning them into successful products. My interest in education led me to develop Lernpfad.ch, a micropublishing platform that allows teachers to create structured learning scenarios for their students.
+I am a software engineer with over 15 years of experience in building digital products. I am passionate about taking ideas and shaping them into successful products by building prototypes, validating them, and turning them into reality. I see myself as someone at the intersection of technology, product design, and people. Throughout my career, I have written code, designed products, and led engineering teams.
+
+My interest in education led me to develop Lernpfad.ch, a micropublishing platform that allows teachers to create structured learning scenarios for their students.
 
 A few years ago, I worked as the CTO at a Swisscom subsidiary, Mila.com, where we participated in a Swisscom bug bounty program. This experience inspired me to start GObugfree.com, a crowd-sourced application security platform that makes the bug bounty approach accessible to all digital products.
 
